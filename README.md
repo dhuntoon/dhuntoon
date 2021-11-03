@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 
 **Who I am**
 
-Hi, I'm Dylan Huntoon (@dhuntoon), and I am an undergraduate student at Purdue University. I'm studying Computer Engineering with a focus in software development for embedded systems. 
+Hi, I'm Dylan Huntoon (@dhuntoon), and I am an undergraduate student at Purdue University. I'm studying Computer Engineering with a focus in software development for aerospace applications. 
 
 **My Interests**
 
